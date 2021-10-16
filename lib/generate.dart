@@ -10,7 +10,7 @@ class GeneratePage extends StatefulWidget {
 
 class GeneratePageState extends State<GeneratePage> {
   String qrData =
-      "https://github.com/neon97";  // already generated qr code when the page opens
+      "Dominique Youness, Test Ok";  // already generated qr code when the page opens
 
   @override
   Widget build(BuildContext context) {
